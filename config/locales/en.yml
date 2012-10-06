@@ -13,3 +13,5 @@ en:
   social_provider: "Social Provider"
   please_confirm_your_email: "Please confirm your email address to continue"
   sign_in_with: "Login with %{provider}"
+  signed_in_successfully: "Signed in successfully"
+  authentication_successful: "Authentication successful."
